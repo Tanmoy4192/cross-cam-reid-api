@@ -8,3 +8,4 @@ torchreid
 opencv-python-headless
 numpy
 Pillow
+gdown
