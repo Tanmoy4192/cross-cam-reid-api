@@ -1,12 +1,10 @@
-﻿fastapi
+fastapi
 uvicorn
 python-multipart
 torch==2.2.2
 torchvision==0.17.2
+ultralytics
+torchreid
 opencv-python-headless
 numpy
 Pillow
-ultralytics
-torchreid
-
-scikit-learn
