@@ -10,5 +10,5 @@ numpy
 Pillow
 gdown
 tensorboard
-scikit-learn==1.4.1
+scikit-learn
 
